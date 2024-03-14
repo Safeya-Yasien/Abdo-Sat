@@ -11,6 +11,7 @@ https://wa.me/2001064695573"
 <br>
 <br>
 telegram:<br>
+https://t.me/+BNXhijiIvPw0MmU0
 
 <br>
 
