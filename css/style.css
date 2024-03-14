@@ -1,7 +1,7 @@
 
 body
 {
-    background-color: #000;
+    /* background-color: #000; */
 }
 
 nav .logo {
@@ -13,4 +13,8 @@ nav .logo {
 
 .space-x-4 > :not([hidden]) ~ :not([hidden]) {
     margin-left: 0 !important;
+}
+
+.landing img{
+  width: 720px;
 }
